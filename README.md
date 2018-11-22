@@ -14,7 +14,7 @@ This is just a simple repo to connect a couple of sensors to a Rasberry Pi 3 for
 
 
 ### Explanation
-*  A setting up process comes into place that walk you through the information the script needs in order to set a crop to cultivativate.
+A setting up process comes into place that walk you through the information the script needs in order to set a crop to cultivativate.
 * 1. ask for personal information: farm name, location (country, city)
 * 2. insert the sensors into the soil to perform reading and give a selection of what suit best for that type of soil base on the crop database in the script
 * 3. Asks to check either if user wants to choose their own crop or get suggestions from the system which crop grow best.
